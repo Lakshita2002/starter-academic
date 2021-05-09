@@ -34,9 +34,18 @@ experience:
     date_end: ''
     description: >-
     
-        - Mentored students who have faced difficulty in their freshman year mathematics courses
-        - Taken academic classes and hall-level doubt clearing sessions for first years
+        - Mentored students who have faced difficulty in their freshman year mathematics courses <br>
+        - Taken academic classes and hall-level doubt clearing sessions for first years <br>
+       
+  - title: 'Student Guide'
+    company: 'Counselling Service'
+    date_start: '2020-08-01'
+    date_end: ''
+    description: >-
+    
+        - Helped in organizing Orientation (Y20) for 1000+ freshers <br>
+        - Provided guidance and emotional support to a group of six freshers by helping them adjust to college life <br>
 
 design:
-  columns: '2'
+  columns: '3'
 ---
