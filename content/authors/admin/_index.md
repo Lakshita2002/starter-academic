@@ -33,11 +33,11 @@ education:
       year: ""
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 \
 Bonjour à tous! Myself Lakshita Mohanty, a second year undergraduate student here at Indian Institute of Technology Kanpur. My interests include buying endless number of books and not reading them timely. I like to draw and cook occasionally.
 
 I am currently working on relaxing and not stressing out about "not stressing out about academics" My goal for this summer is to finish the pile of books that I've created.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
