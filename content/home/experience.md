@@ -25,14 +25,14 @@ experience:
   - title: 'Manager'
     company: 'Research Wing'
     location: 'Academics and Career Council, IITK'
-    date_start: 'April 2021'
+    date_start: '2021-04-01'
     date_end: ''
     description: 'Responsible for conduction of research-related activities to promote research interests in the student community'
         
   - title: 'Academic Mentor'
     company: 'MTH101/102'
     location: 'Counselling Service'
-    date_start: 'September 2020'
+    date_start: '2020-08-01'
     date_end: ''
     description: 'Mentored students who have faced difficulty in their freshman year mathematics courses'
 
