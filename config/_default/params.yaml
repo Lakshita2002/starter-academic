@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: night
 day_night: false
 font: ''
 font_size: L
@@ -23,8 +23,8 @@ twitter: ''
 email: lakshitamohanty2002@gmail.com
 phone: 7082180757
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: A-511 Hall 6
+  city: IIT Kanpur
   region: IN
   postcode: '208016'
   country: India
