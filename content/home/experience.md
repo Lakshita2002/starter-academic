@@ -62,9 +62,18 @@ experience:
     date_end: '2020-03-01'
     description: >-
     
-           Hosted various Journal Club Talk events by researchers and P.Hd students on NLP, cognitive studies and ML
-           Managed the LinkedIn page of the society as a part of the Web Reach tea
-          
+           * Hosted various Journal Club Talk events by researchers and P.Hd students on NLP, cognitive studies and ML <br>
+           * Managed the LinkedIn page of the society as a part of the Web Reach team <br>
+ 
+  - title: 'Secretary'
+    company: 'Quiz, IITK'
+    date_start: '2020-07-01'
+    date_end: '2020-03-01'
+    description: >-
+    
+           * Hosted various Journal Club Talk events by researchers and P.Hd students on NLP, cognitive studies and ML <br>
+           * Managed the LinkedIn page of the society as a part of the Web Reach team <br>
+
 design:
   columns: '2'
 ---
