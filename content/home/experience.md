@@ -27,25 +27,44 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: 'Responsible for conduction of research-related activities to promote research interests in the student community'
-        
+
+  - title: 'Secretary Research Wing'
+    company: 'Academics and Career Council, IITK'
+    date_start: '2020-04-01'
+    date_end: '2020-03-01'
+    description: >-
+    
+          Approached 15+ startups for internship positions in the field of E-vehicle R&D to help students get internship during lockdown
+          Interacted with IITK alumni and documented their research experience in the form of AnC Blogs
+
   - title: 'Academic Mentor MTH101/102'
-    company: 'Counselling Service'
+    company: 'Counselling Service, IITK'
     date_start: '2020-08-01'
     date_end: ''
     description: >-
     
-        - Mentored students who have faced difficulty in their freshman year mathematics courses <br>
-        - Taken academic classes and hall-level doubt clearing sessions for first years <br>
+          Mentored students who have faced difficulty in their freshman year mathematics courses <br>
+          Taken academic classes and hall-level doubt clearing sessions for first years <br>
        
   - title: 'Student Guide'
-    company: 'Counselling Service'
+    company: 'Counselling Service, IITK'
     date_start: '2020-08-01'
     date_end: ''
     description: >-
     
-        - Helped in organizing Orientation (Y20) for 1000+ freshers <br>
-        - Provided guidance and emotional support to a group of six freshers by helping them adjust to college life <br>
+          Helped in organizing Orientation (Y20) for 1000+ freshers <br>
+          Provided guidance and emotional support to a group of six freshers by helping them adjust to college life <br>
 
+
+  - title: 'Secretary'
+    company: 'Brain and Cognitive Society, IITK'
+    date_start: '2020-08-01'
+    date_end: '2020-03-01'
+    description: >-
+    
+           Hosted various Journal Club Talk events by researchers and P.Hd students on NLP, cognitive studies and ML
+           Managed the LinkedIn page of the society as a part of the Web Reach tea
+          
 design:
   columns: '2'
 ---
