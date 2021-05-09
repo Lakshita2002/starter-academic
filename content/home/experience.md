@@ -47,5 +47,5 @@ experience:
         - Provided guidance and emotional support to a group of six freshers by helping them adjust to college life <br>
 
 design:
-  columns: '3'
+  columns: '2'
 ---
