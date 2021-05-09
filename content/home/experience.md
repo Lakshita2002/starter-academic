@@ -22,21 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Manager
-    company: Research Wing
-    location: Academics and Career Council, IITK
+  - title: 'Manager'
+    company: 'Research Wing'
+    location: 'Academics and Career Council, IITK'
     date_start: 'April 2021'
     date_end: ''
-    description: Responsible for conduction of research-related activities to promote research interests in the student community
+    description: 'Responsible for conduction of research-related activities to promote research interests in the student community'
         
-  - title: Academic Mentor
-    company: MTH101/102
-    location: Counselling Service
+  - title: 'Academic Mentor'
+    company: 'MTH101/102'
+    location: 'Counselling Service'
     date_start: 'September 2020'
     date_end: ''
     description: |2-
-        *  Mentored students who have faced difficulty in their freshman year mathematics courses
-        *  Taken academic classes and hall-level doubt clearing sessions for first years
+        * Mentored students who have faced difficulty in their freshman year mathematics courses
+        * Taken academic classes and hall-level doubt clearing sessions for first years
 
 design:
   columns: '2'
