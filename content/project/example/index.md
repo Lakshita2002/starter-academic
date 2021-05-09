@@ -12,7 +12,7 @@ date: 2016-04-27T00:00:00Z
 external_link: https://github.com/Lakshita2002/FER_brain_and_cognitive_society
 url_slides: ""
 subtitle: ""
-tags: []
+tags: [Club]
 links:
   - icon: github
     icon_pack: fab
