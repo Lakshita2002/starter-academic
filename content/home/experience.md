@@ -34,9 +34,9 @@ experience:
     location: 'Counselling Service'
     date_start: 'September 2020'
     date_end: ''
-    description: |2-
-        '* Mentored students who have faced difficulty in their freshman year mathematics courses
-        * Taken academic classes and hall-level doubt clearing sessions for first years'
+    description: >-
+        * Mentored students who have faced difficulty in their freshman year mathematics courses
+        * Taken academic classes and hall-level doubt clearing sessions for first years
 
 design:
   columns: '2'
