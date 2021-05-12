@@ -8,11 +8,12 @@ summary: >-
 
   The project aims to detect 7 human emotions (6 universal +1 neutral) using Convolutional Neural Networks. Emotion recognition is performed on images, videos and live feeds as well.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2021-05-12T20:38:19.523Z
 external_link: https://github.com/Lakshita2002/FER_brain_and_cognitive_society
 url_slides: ""
 subtitle: ""
-tags: [Club]
+tags:
+  - Club
 links:
   - icon: github
     icon_pack: fab
