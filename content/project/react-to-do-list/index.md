@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: demo.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
