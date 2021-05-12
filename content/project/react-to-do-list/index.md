@@ -1,6 +1,6 @@
 ---
 title: React To Do List
-date: 2021-05-12T20:10:53.554Z
+date: 2021-05-12T20:32:00.000Z
 summary: A React native application that allows users to add, check off and
   delete items on a to do list.
 draft: false
