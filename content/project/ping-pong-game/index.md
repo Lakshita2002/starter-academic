@@ -1,6 +1,6 @@
 ---
 title: Ping Pong Game
-date: 2021-05-13T13:19:27.268Z
+date: 2020-05-13T13:19:00.000Z
 summary: A simple ping pong game using Turtle module in python.
 draft: false
 featured: false
